@@ -1,5 +1,8 @@
 # NOTES
 
+**TO RUN THE FILES**
+*ts-node <file_name.ts>*
+
 _npm install --save-dev @types/node_
 **This is to install type definitions for node**
 Also, Typescript 5.6 introduced some breaking changes a few weeks ago related to imports. ts-node is currently not in sync with this since it has not seen an update since 2023.
